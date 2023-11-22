@@ -7,17 +7,18 @@ body{
 }
 h1{
     color: white;
-    background-color: black;
+    background-color: rgb(0,0,0,0.7);
 }
 button{
     background-color: blueviolet;
     border: none;
     color: white;
     padding: 15px;
-    width: 200px;
-    border-radius: 20px;
+    width: 31%;
+    border-radius: 5px;
     margin-bottom: 10px;
     box-shadow:100%;
+    cursor: pointer;
 }
 input{
     width: 150px;
